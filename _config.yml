@@ -4,7 +4,7 @@ baseurl: "/"
 permalink: "/:title/"
 palette: blue
 header:
-  title: Azimuth
+  title: Bias Detection
   logo_img: images/logo.png
   has_nav: true
   menu:
