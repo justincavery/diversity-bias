@@ -15,16 +15,21 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: features
-  title: Features
+  title: Hello Diversity
   component: features_block.html
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: An inclusive environment gets better engagement, better retention and
+    even helps achieve higher financial profits. Yet many employers still use language
+    like ‘coding ninja’ or ‘sales rockstar’ in copy – turning key talent off. Our
+    next generation inclusion tool can help you communicate in a way that’s more welcoming.
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
+  - title: Gender Bias
+    content: The tools on the market today typically use an outdated binary list of
+      ‘male’ and ’female’ words. Our enhanced data set uses linguistic context to
+      report on gender in a more nuanced way. This tool automatically generates alerts
+      on gender bias in your website and job copy, providing alternative, more neutral
+      terms. It can also create reports to track your trends and progress over time.
+    image: https://res.cloudinary.com/simple-things/image/upload/v1565966435/https:/res.cloudinary.com/simple-things/image/upload/Gender-Bias-Detector_meyteo.png
     actions:
     - label: Learn More
       url: "/features"
