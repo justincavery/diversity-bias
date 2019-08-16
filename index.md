@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: A better way to engage talant
+  title: A better way to engage talent
   component: hero_block.html
   content: We've developed an AI tool to remove bias from your job copy and help you
     build more diversity into your workforce.
