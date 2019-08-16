@@ -73,11 +73,12 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call To Action Block!
+  title: Subscribed today
   component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
+  subtitle: We want everyone to be able to access this next generation inclusion tool,
+    so we will offer it at a fraction of the price charged by the market leaders.
   actions:
-  - label: Get Started
+  - label: Sign Up
     url: "/signup"
 - type: postsblock
   template: postsblock
