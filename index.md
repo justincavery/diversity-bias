@@ -62,11 +62,10 @@ sections:
     avatar: images/review1.jpg
     content: I've looked at a lot of these kinds of tools and this is the most promising
       appraoch I've come across so far.
-  - author: Jane Roe
+  - author: Heather Deland
     avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+    content: This has the potential to be groundbreaking in the talent acquisition
+      space.
   - author: Richard Roe
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
