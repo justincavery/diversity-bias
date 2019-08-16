@@ -41,10 +41,12 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+  - title: Beyond Gender
+    content: Gender bias is only one type of exclusion that can appear in your copy.
+      Our tool uses a much broader set of data that allows you to consider other dimensions
+      of diversity, such as BAME and socio-economic background – using the same easy,
+      automated process.
+    image: https://res.cloudinary.com/simple-things/image/upload/v1565966529/https:/res.cloudinary.com/simple-things/image/upload/Beyond-Gender-Diversity_hphtbl.png
     actions:
     - label: Learn More
       url: "/features"
