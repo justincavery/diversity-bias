@@ -12,7 +12,7 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: images/logo_alt.png
+  logo_img: "/Asset 1@2x.png"
   tagline: Bias Detection
   has_nav: true
   nav_title: Company
