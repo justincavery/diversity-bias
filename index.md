@@ -68,8 +68,8 @@ sections:
       space.
   - author: Richard Roe
     avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+    content: It's as simplistic as the Kat Matfield tool, but has more dimensions
+      and you can test thousands of jobs at once.
 - type: ctablock
   template: ctablock
   section_id: call-to-action
