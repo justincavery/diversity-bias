@@ -29,7 +29,7 @@ sections:
       report on gender in a more nuanced way. This tool automatically generates alerts
       on gender bias in your website and job copy, providing alternative, more neutral
       terms. It can also create reports to track your trends and progress over time.
-    image: "/Gender-Bias-Detector.png"
+    image: "/Gender-Bias-Detector-1.png"
     actions:
     - label: Learn More
       url: "/features"
