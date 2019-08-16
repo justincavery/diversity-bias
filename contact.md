@@ -1,9 +1,11 @@
 ---
 title: Contact
 layout: contact
+subtitle: ''
+img_path: ''
 menu:
   secondary:
     weight: 3
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+If you have any further questions or would like to enquire about being one of the pioneer companies to start using this tool let us know below.
