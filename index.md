@@ -55,14 +55,13 @@ sections:
   section_id: reviews
   title: Testimonials
   component: reviews_block.html
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  subtitle: Listen to what your peers have to say.
   bg: white
   reviews:
-  - author: John Doe
+  - author: Justin Avery
     avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: I've looked at a lot of these kinds of tools and this is the most promising
+      appraoch I've come across so far.
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
