@@ -33,10 +33,11 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+  - title: Recruiter Jargon
+    content: Table tennis? Friday beers? Studies show that candidates are not persuaded
+      by ‘empty benefits’ like these. Our tool scans for and reports on these too,
+      supporting you to create more meaningful reasons to join.
+    image: https://res.cloudinary.com/simple-things/image/upload/v1565966491/https:/res.cloudinary.com/simple-things/image/upload/Recruiter-Jargon-Detection_rgoz1n.png
     actions:
     - label: Learn More
       url: "/features"
