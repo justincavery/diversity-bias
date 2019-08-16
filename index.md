@@ -8,7 +8,7 @@ sections:
   component: hero_block.html
   content: We've developed an AI tool to remove bias from your job copy and help you
     build more diversity into your workforce.
-  image: "/v1565856963/diversity-people_imybzf.png"
+  image: "/Gender-Bias-Detector.png"
   actions:
   - label: Learn More
     url: "/features"
