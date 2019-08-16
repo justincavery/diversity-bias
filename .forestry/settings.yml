@@ -57,7 +57,7 @@ sections:
   create: all
   templates:
   - post
-upload_dir: https://res.cloudinary.com/simple-things/image/upload
+upload_dir: ''
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
