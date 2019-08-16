@@ -46,7 +46,7 @@ sections:
       Our tool uses a much broader set of data that allows you to consider other dimensions
       of diversity, such as BAME and socio-economic background – using the same easy,
       automated process.
-    image: https://res.cloudinary.com/simple-things/image/upload/v1565966529/https:/res.cloudinary.com/simple-things/image/upload/Beyond-Gender-Diversity_hphtbl.png
+    image: "/Beyond-Gender-Diversity.png"
     actions:
     - label: Learn More
       url: "/features"
