@@ -3,9 +3,6 @@ title: About Us
 subtitle: ''
 img_path: images/about.jpg
 layout: page
-menu:
-  secondary:
-    weight: 1
 
 ---
 We pride ourselves on creating opportunities for businesses like yours to grown into the most diverse organisation you can.
