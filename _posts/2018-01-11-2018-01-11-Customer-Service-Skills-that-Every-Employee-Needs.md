@@ -1,21 +1,25 @@
 ---
-title: 5 Customer Service Skills that Every Employee Needs
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
-date: '2018-01-11'
-thumb_img_path: images/5_thumb.jpg
+title: " Can 'blind' applications help recruit a diverse workforce?"
+subtitle: While 'blind' applications are a positive step forward, there is more work
+  to be done than rely on a solitary fix for unconscious bias.
+date: 2019-08-01 07:00:12 +0000
+thumb_img_path: "/Blind inteview technique for diversity.jpg"
 content_img_path: images/5.jpg
-excerpt: >-
-  Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
+excerpt: Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
   interdum, massa massa tempor ante.
 layout: post
+
 ---
+With unconscious bias and diversity being front of mind for most organisations, 'blind' applications are becoming more prevalent. To remove name, age, gender are the obvious things, however the bias goes further, removing college and university names for example.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dapibus est a dolor iaculis vulputate. Mauris libero nulla, commodo sit amet tempus quis, finibus cursus tellus. Duis non velit vel velit euismod elementum. Aliquam porta et nisl id mattis. Fusce vitae massa orci. Ut euismod ornare orci ac interdum. Morbi vulputate ullamcorper purus eu dictum. Vestibulum ac neque faucibus lectus egestas volutpat in vitae velit. Morbi elementum nibh libero, ac ultricies metus laoreet ac. Nam tempus ligula a nulla tincidunt, sit amet semper sapien condimentum.
+However, can they ever truly be 'blind' if right to work checks and seeing passports happen before interview?
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque aliquet ante sed odio pellentesque malesuada at id turpis. Nulla porta ipsum ac augue vulputate varius. Aenean tempor risus rhoncus congue egestas. Donec laoreet tempus tempus. Sed erat erat, elementum ut feugiat at, facilisis ut massa. Duis ultricies ex a mauris sodales euismod. Donec placerat bibendum arcu non rutrum. Praesent quis risus enim. Morbi efficitur lectus at diam cursus ultrices. Integer ut erat eget erat posuere interdum. Ut risus nunc, hendrerit a sagittis id, scelerisque sed ipsum.
+While 'blind' applications are a positive step forward, there is more work to be done than rely on a solitary fix for unconscious bias.
 
-Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat interdum, massa massa tempor ante, in gravida dui quam at nibh. Nullam egestas purus nulla, vitae posuere turpis egestas nec. Nam at porttitor massa, sed luctus nibh. Vestibulum varius accumsan orci sed finibus. Quisque suscipit est nisl, et feugiat nunc dictum in. Maecenas pellentesque nulla vel sodales cursus. Nulla venenatis sem a dui sagittis vehicula.
+The article below sets out pros and cons for 'blind' applications with views from 3 recruiters and gives food for thought if it’s something you’re considering or have already moved to.
 
-Etiam interdum finibus neque, vel bibendum diam volutpat et. Nunc volutpat ante at nibh tempus malesuada. Proin pretium sed tellus eget porttitor. Praesent convallis varius magna in pharetra. Nunc quis venenatis massa. In euismod dictum porta. Donec aliquam mauris dignissim odio auctor dictum.
+> When an applicant shares their CV with a recruiter, they should undoubtedly be judged on if they are right for the job based on their skills and relevant experience – names, ages and race should never be a focus point. By removing details such as these from a CV, recruiters will be able to make decisions purely on a candidate’s merit and not based on factors such as gender.
+>
+> To find out whether ‘blind recruitment’ is a popular choice, we spoke to three recruiters to find out their thoughts…
 
-Suspendisse a dui auctor purus accumsan ullamcorper. In maximus nunc nec fermentum posuere. Cras id ipsum in elit consectetur elementum. Mauris mollis mollis orci non rutrum. Phasellus facilisis convallis hendrerit. Curabitur at erat id odio tincidunt placerat. Sed efficitur, lacus nec viverra dapibus, ligula libero commodo eros, eu aliquam nunc risus in nisi. Curabitur sed malesuada metus. Ut fringilla, arcu non bibendum ornare, justo erat condimentum neque, ut pulvinar leo leo interdum mauris. Integer nulla augue, rutrum vitae nulla quis, cursus mollis justo.
+[Read more...](https://www.executivegrapevine.com/publications/magazine/june-2019/is-blind-recruitment-an-effective-solution-to-prevent-discrimination-in-the-hiring-process)
