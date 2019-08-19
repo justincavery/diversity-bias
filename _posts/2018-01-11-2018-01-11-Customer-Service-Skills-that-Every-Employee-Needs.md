@@ -4,9 +4,9 @@ subtitle: While 'blind' applications are a positive step forward, there is more 
   to be done than rely on a solitary fix for unconscious bias.
 date: 2019-08-01 07:00:12 +0000
 thumb_img_path: "/Blind inteview technique for diversity.jpg"
-content_img_path: images/5.jpg
-excerpt: Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
-  interdum, massa massa tempor ante.
+content_img_path: ''
+excerpt: While 'blind' applications are a positive step forward, there is more work
+  to be done than rely on a solitary fix for unconscious bias.
 layout: post
 
 ---
