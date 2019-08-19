@@ -4,8 +4,8 @@ subtitle: Insights from Suzi Fox...
 date: 2019-08-18 07:00:00 +0000
 thumb_img_path: "/Diversity at your doorstep.jpg"
 content_img_path: "/Diversity at your doorstep.jpg"
-excerpt: Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+excerpt: There's no doubt a focus on increasing diversity is getting results. I want
+  to help you too.
 layout: post
 
 ---
