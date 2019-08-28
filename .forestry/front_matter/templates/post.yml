@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/this-is-why-you-should-care-about-the-gender-pay-gap.md
 - _posts/2018-01-11-2018-01-11-Customer-Service-Skills-that-Every-Employee-Needs.md
 - _posts/2018-01-09-2018-01-09-Design-Azimuth.md
 - _posts/2019-03-27-2019-03-27-User-Journey-Mapping.md
