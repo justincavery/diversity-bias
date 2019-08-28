@@ -17,8 +17,8 @@ sections:
   image: "/Wide-desktop Copy.png"
   bg: gray
   actions:
-  - label: Free Trial
-    url: "/signup"
+  - label: Contact Us
+    url: "/contact"
   - label: View Demo
     url: "#"
 - type: ctablock
