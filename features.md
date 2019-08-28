@@ -22,12 +22,13 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call to Action Block!
+  title: Find our more today
   component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
+  subtitle: Get in touch with us to find out how this tool can revolutionise your
+    business
   actions:
-  - label: Get Started
-    url: "#"
+  - label: Contact Us Now
+    url: "/contact"
 layout: features
 
 ---
