@@ -58,7 +58,7 @@ sections:
   subtitle: Listen to what your peers have to say.
   bg: white
   reviews:
-  - author: Justin Avery
+  - author: Jason Fielding
     avatar: images/review1.jpg
     content: I've looked at a lot of these kinds of tools and this is the most promising
       appraoch I've come across so far.
