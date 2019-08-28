@@ -19,8 +19,6 @@ sections:
   actions:
   - label: Contact Us
     url: "/contact"
-  - label: View Demo
-    url: "#"
 - type: ctablock
   template: ctablock
   section_id: call-to-action
