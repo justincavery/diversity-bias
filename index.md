@@ -62,7 +62,7 @@ sections:
     avatar: images/review1.jpg
     content: I've looked at a lot of these kinds of tools and this is the most promising
       appraoch I've come across so far.
-  - author: Heather Deland
+  - author: Toni Harris
     avatar: images/review2.jpg
     content: This has the potential to be groundbreaking in the talent acquisition
       space.
