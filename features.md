@@ -22,7 +22,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Find our more today
+  title: Find out more today
   component: cta_block.html
   subtitle: Get in touch with us to find out how this tool can revolutionise your
     business
