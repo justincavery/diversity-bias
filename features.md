@@ -17,7 +17,7 @@ sections:
     * **Continueous learning** — if you think we've falsely flagged something you can provide one-click feedback to help our algorithm learn.
 
     Those are just a few of the amazing benefits you will receive from our tool, for further information and to become one of our pilot companys [get in touch today](/contact).
-  image: "/Wide-desktop Copy.png"
+  image: "/Wide-desktop Copy@2x.png"
   bg: gray
   actions:
   - label: Contact Us
