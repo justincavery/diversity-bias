@@ -4,7 +4,7 @@ sections:
 - type: contentblock
   template: contentblock
   section_id: features
-  title: Bias Detection Tool has got...
+  title: Bias detection tool features..
   component: content_block.html
   content: |-
     The Bias Detection tool
