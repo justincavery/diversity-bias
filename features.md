@@ -9,11 +9,14 @@ sections:
   content: |-
     The Bias Detection tool
 
-    * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    * Ut eu nunc at diam fringilla fringilla eu ut massa.
-    * Phasellus ut enim non lorem venenatis rutrum.
+    * **See progress over time** — each time you make changes to your content the tool will rerun and provide a new set of feedback and show how your diversity has improved over time
+    * **Easy to set up** — you tell us what you want to report on and we'll handle the rest. Once the first index is complete new checks will be run 12 times a day.
+    * **Report across your collections** — the bias detection tool can check your word documents on the server, job descriptions on the ATS, your copy on the website... where ever you have content we can check it.
+    * **Choose your reporting levels** — run reports by organisation, department, by role type, or by individual job description.
+    * **Built in recommendations** — our algorithm won't just detect bias, but it will give you feedback around why it has been flagged and provide you a set of alternatives.
+    * **Continueous learning** — if you think we've falsely flagged something you can provide one-click feedback to help our algorithm learn.
 
-    Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum.
+    Those are just a few of the amazing benefits you will receive from our tool, for further information and to become one of our pilot companys [get in touch today](/contact).
   image: "/Wide-desktop Copy.png"
   bg: gray
   actions:
